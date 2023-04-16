@@ -14,7 +14,7 @@ The environment contains the following main features,
 
 - Python geospatial packages: GeoPandas, GeoPy, rasterio, PyDeck, ...
 
-## Set up with docker-compose :whale: :boom
+## Set up with docker-compose :whale: :boom:
 
 >NOTE: to install this environment both [docker](https://docs.docker.com/get-docker/) and [docker-compose](https://docs.docker.com/compose/) are required
 
