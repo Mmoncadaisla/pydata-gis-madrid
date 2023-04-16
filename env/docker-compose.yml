@@ -16,7 +16,7 @@ services:
   jupyter:
     build:
       context: ../
-      dockerfile: ../pydata-madrid-gis/env/jupyter/.
+      dockerfile: ./env/jupyter/.
     env_file:
       - ../env/jupyter/.env
     ports:
