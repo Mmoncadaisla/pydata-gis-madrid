@@ -18,7 +18,7 @@ setup(
     packages=find_packages(),
     python_requires=">=3.7",
     install_requires=install_requires,
-    url='https://github.com/Mmoncadaisla/pydata-madrid-gis',
+    url='https://github.com/Mmoncadaisla/pydata-gis-madrid',
     license='Apache License 2.0',
     author_email='mmoncadaisla@gmail.com',
     author='mmoncadaisla',
