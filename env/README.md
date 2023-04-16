@@ -30,7 +30,13 @@ docker-compose build
 docker-compose up
 ```
 
-3. Access the link to access Jupyter within the notebooks directory
+Bring only jupyter service up
+
+```bash
+docker-compose up jupyter
+```
+
+3. Access the link to access Jupyter within the notebooks directory.
 
 To access the database through `psql` you could run the following,
 
