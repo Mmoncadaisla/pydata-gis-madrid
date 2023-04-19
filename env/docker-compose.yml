@@ -16,7 +16,7 @@ services:
   jupyter:
     build:
       context: ../
-      dockerfile: ./env/jupyter/.
+      dockerfile: ./env/jupyter/Dockerfile
     env_file:
       - ../env/jupyter/.env
     ports:
